@@ -21,7 +21,7 @@
 */
 
 .background--skyBlue {
-  background-color: rgb(52, 152, 219);
+  background-color: rgb(56, 152, 219);
 }
 
 .color--skyBlue {
@@ -55,12 +55,12 @@ html {
 }
 
 body {
-  font-family: 'Cardo', serif;
+  font-family: 'Times New Roman', serif;
   margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   letter-spacing: .1rem;
 }
 
